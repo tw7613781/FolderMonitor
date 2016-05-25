@@ -1,0 +1,6 @@
+c:\users\administrator.awms\documents\visual studio 2010\Projects\FolderMonitorService\FolderMonitorService\bin\Debug\FolderMonitorService.exe
+c:\users\administrator.awms\documents\visual studio 2010\Projects\FolderMonitorService\FolderMonitorService\bin\Debug\FolderMonitorService.pdb
+c:\users\administrator.awms\documents\visual studio 2010\Projects\FolderMonitorService\FolderMonitorService\obj\x86\Debug\FolderMonitorService.exe
+c:\users\administrator.awms\documents\visual studio 2010\Projects\FolderMonitorService\FolderMonitorService\obj\x86\Debug\FolderMonitorService.pdb
+C:\Users\Administrator.AWMS\documents\visual studio 2010\Projects\FolderMonitorService\FolderMonitorService\obj\x86\Debug\FolderMonitorService.ProjectInstaller.resources
+C:\Users\Administrator.AWMS\documents\visual studio 2010\Projects\FolderMonitorService\FolderMonitorService\obj\x86\Debug\FolderMonitorService.csproj.GenerateResource.Cache
